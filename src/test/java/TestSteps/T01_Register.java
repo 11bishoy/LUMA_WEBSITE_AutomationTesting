@@ -13,7 +13,7 @@ public class T01_Register extends Testbase{
     String actual_url_creatacount_page;
     String name="Bishoy";
     String lastname="Adel";
-    String email="bishoyadel2018188356@gmail.com";
+    String email="bishoyadel201818835666@gmail.com";
     String PASSWORD="B1234566#";
     String confirmedpassword="B1234566#";
     String WRONG_confirmedpassword="bhjhjjh";
