@@ -13,9 +13,9 @@ public class T01_Register extends Testbase{
     String actual_url_creatacount_page;
     String name="Bishoy";
     String lastname="Adel";
-    String email="bishoyadel20171356@gmail.com";
-    String PASSWORD="B123456#";
-    String confirmedpassword="B123456#";
+    String email="bishoyadel2018188356@gmail.com";
+    String PASSWORD="B1234566#";
+    String confirmedpassword="B1234566#";
     String WRONG_confirmedpassword="bhjhjjh";
     String required_filed_message="This is a required field.";
     String req_field_excpected_message;
